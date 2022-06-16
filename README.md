@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbswhd4932)](https://github.com/dbswhd4932/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbswhd493@naver.com)](https://solved.ac/dbswhd493@naver.com)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswhd493)](https://solved.ac/dbswhd493)

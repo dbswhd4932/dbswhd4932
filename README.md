@@ -15,7 +15,6 @@
 <br>
 <br>
 <div align='center'> Email : dbswhd4932@gmail.com</div>
-<div align='center'> profile : <a href="https://boundless-gym-d44.notion.site/Back-End-Developer-86120e062aa84e64bc1dbf9cff7b7327">Notion Link</div>
 <div align='center'> Blog : <a href="https://josteady.tistory.com/">https://josteady.tistory.com/</a></div>
 <br>
   

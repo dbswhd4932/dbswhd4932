@@ -1,7 +1,4 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoonJong%20Github!&fontSize=90" />
-</div>
-<div align=center>
 <h3>📚 Stack 📚</h3>
 </div>
 <div align="center">
@@ -10,6 +7,8 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/QueryDSL-37A5AD?style=for-the-badge&logo=querydsl&logoColor=white">
 </div>
 
 <div align=center>

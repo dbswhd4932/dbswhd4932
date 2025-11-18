@@ -32,16 +32,18 @@
 
 <div align="center">
 
+<div align=center><h3>🛠️ Tools 🛠️</h3></div>
+<div align="center">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+</div>
 
-
-
-
-
+<br></br>
 
 <div align='center'> Email : dbswhd4932@gmail.com</div>
 <div align='center'> Blog : <a href="https://josteady.tistory.com/">https://josteady.tistory.com/</a></div>
-
-
 
 
 
